@@ -1,4 +1,6 @@
 # 💫 About Me:
+![image](https://github.com/user-attachments/assets/1c02cbb1-cd20-45be-8f8f-021ca5f12a7e)
+
 Good day to you! 31 | Male | He/him | USA | BBA Business | BA Spanish | MBA | Looking at every facet in life.<br>Currently looking into web development.
 
 
