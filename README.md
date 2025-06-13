@@ -26,10 +26,10 @@ Good day to you! 31 | Male | He/him | USA | BBA Business | BA Spanish | MBA | Lo
 
 Socials:
 
-![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white) : https://x.com/southern_geek94
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) : https://www.youtube.com/@SouthernGeek-94
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) : https://www.instagram.com/southerngeek94/
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) : southerngeek
-![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white) : https://bsky.app/profile/southerngeek.bsky.social
+X: https://x.com/southern_geek94
+YouTube : https://www.youtube.com/@SouthernGeek-94
+Instagram : https://www.instagram.com/southerngeek94/
+Discord : southerngeek
+BlueSky : https://bsky.app/profile/southerngeek.bsky.social
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
