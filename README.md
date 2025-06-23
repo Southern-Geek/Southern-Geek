@@ -1,5 +1,7 @@
 # 💫 About Me
 ![My Avatar](https://github.com/user-attachments/assets/1c02cbb1-cd20-45be-8f8f-021ca5f12a7e)
+
+
 Hi! I’m Southern Geek (31 | He/him | USA). With degrees in Business, Spanish, and an MBA, I’m passionate about learning and exploring new fields—currently, web development!
 
 ---
