@@ -7,10 +7,10 @@ Hi! I’m Southern Geek (31 | He/him | USA). With degrees in Business, Spanish, 
 ---
 
 ## 🚀 Featured Projects
-- [My Portfolio]([https://github.com/Southern-Geek/awesome-portfolio](https://github.com/Southern-Geek/Full-Portfolio))
-- [My WIP]([https://github.com/Southern-Geek/datacruncher](https://github.com/Southern-Geek/The-WIP-Zone))
-- [On Hold]([https://github.com/Southern-Geek/The-On-Hold-Zone])
-- [Cancelled]([])
+- [My Portfolio](https://github.com/Southern-Geek/Full-Portfolio)
+- [My WIP](https://github.com/Southern-Geek/The-WIP-Zone)
+- [On Hold](https://github.com/Southern-Geek/The-On-Hold-Zone)
+- [Cancelled](https://github.com/Southern-Geek/The-Cancelled-Zone)
 
 ---
 
