@@ -7,8 +7,10 @@ Hi! I’m Southern Geek (31 | He/him | USA). With degrees in Business, Spanish, 
 ---
 
 ## 🚀 Featured Projects
-- [Awesome Portfolio](https://github.com/Southern-Geek/awesome-portfolio): Personal website built with React, showcasing my journey and skills.
-- [DataCruncher](https://github.com/Southern-Geek/datacruncher): Python/R scripts for data analysis.
+- [My Portfolio]([https://github.com/Southern-Geek/awesome-portfolio](https://github.com/Southern-Geek/Full-Portfolio))
+- [My WIP]([https://github.com/Southern-Geek/datacruncher](https://github.com/Southern-Geek/The-WIP-Zone))
+- [On Hold]([https://github.com/Southern-Geek/The-On-Hold-Zone])
+- [Cancelled]([])
 
 ---
 
